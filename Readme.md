@@ -5,6 +5,8 @@ Uses the browsers built-in print to pdf mode.
 
 Only accomodates 4 levels of descriptors (Advanced, Proficients, Developing, Basic)
 
+I'm working on a pure JavaScript solution, so one doesn't need a webserver, but haven't had much time work on it.
+
 
 ## Pre-requisites
 1. Install PHP (tested on version 8+)
